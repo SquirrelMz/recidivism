@@ -1,3 +1,3 @@
 # recidivism
 
-folder `regression` contains R files
+folder `regression` contains R files and the data (only training set are used)
